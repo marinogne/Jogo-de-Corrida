@@ -5,8 +5,8 @@ Um jogo simples onde 4 jogadores competem pressionando teclas para chegar primei
 ## Como jogar:
 - **Jogador 😎**: Tecla `A`
 - **Jogador 🤠**: Tecla `S`
-- **Jogador 👾**: Tecla `H`
-- **Jogador 🥶**: Tecla `J`
+- **Jogador 👾**: Tecla `D`
+- **Jogador 🥶**: Tecla `F`
 
 Pressione sua tecla rapidamente para mover seu personagem. Quem chegar primeiro ganha!
 
