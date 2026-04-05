@@ -7,8 +7,6 @@ Este projeto foi desenvolvido durante o Ensino Médio, como parte dos desafios d
 
 ## 💻 Tecnologias Utilizadas
 * **Linguagem:** JavaScript
-* **Biblioteca Gráfica:** [p5.js](https://p5js.org/) (utilizada para renderizar o cenário, os personagens e as animações no Canvas)
-* **Estrutura:** HTML5 e CSS3
 
 ## 🕹️ Como Jogar
 Reúna seus amigos no mesmo teclado! A regra é simples: pressione a sua tecla o mais rápido que conseguir para mover o seu personagem.
