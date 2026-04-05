@@ -1,14 +1,19 @@
-# Jogo de Corrida - 4 Jogadores
+# Jogo de Corrida - 4 Jogadores 🏁
 
-Um jogo simples onde 4 jogadores competem pressionando teclas para chegar primeiro.
+## 📌 Sobre o Projeto
+Um jogo simples, divertido e frenético de corrida multiplayer local! Quatro jogadores competem na mesma tela para ver quem tem os dedos mais rápidos. Cada jogador controla um emoji diferente e precisa pressionar sua respectiva tecla repetidamente para avançar. O primeiro a cruzar a linha de chegada vence!
 
-## Como jogar:
-- **Jogador 😎**: Tecla `A`
-- **Jogador 🤠**: Tecla `S`
-- **Jogador 👾**: Tecla `D`
-- **Jogador 🥶**: Tecla `F`
+Este projeto foi desenvolvido durante o Ensino Médio, como parte dos desafios do curso **Alura Start**, focando no aprendizado de lógica de programação, captura de eventos e animação gráfica na web.
 
-Pressione sua tecla rapidamente para mover seu personagem. Quem chegar primeiro ganha!
+## 💻 Tecnologias Utilizadas
+* **Linguagem:** JavaScript
+* **Biblioteca Gráfica:** [p5.js](https://p5js.org/) (utilizada para renderizar o cenário, os personagens e as animações no Canvas)
+* **Estrutura:** HTML5 e CSS3
 
-## Tecnologia:
-Feito com JavaScript usando p5.js
+## 🕹️ Como Jogar
+Reúna seus amigos no mesmo teclado! A regra é simples: pressione a sua tecla o mais rápido que conseguir para mover o seu personagem.
+
+* **Jogador 1** (😎) ➡️ Tecla `A`
+* **Jogador 2** (🤠) ➡️ Tecla `S`
+* **Jogador 3** (👾) ➡️ Tecla `D`
+* **Jogador 4** (🥶) ➡️ Tecla `F`
